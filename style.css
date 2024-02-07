@@ -43,7 +43,7 @@ header {
 
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    
 
     width: 100%;;
     max-width: 300px;
@@ -83,6 +83,7 @@ header {
     font-size: 36px;
     font-weight: bold;
     margin-top: 20px;
+    min-height: 90px;
 }
 
 .text {
